@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+}
+
+.heading{
+    text-align: center;
+    margin: 10px auto;
+    color: #8946A6;
+}
+
+.heading h3{
+    color: #EA99D5;
+}
+
+.info .col-sm{
+    padding: 10px;
+    font-size: 20px;
+}
+
+.info .btn{
+    color: #8946A6;
+    font-weight: bolder;
+}

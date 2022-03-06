@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+}
+
+body{
+    background-image: url(../media/joypuri\ set.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: auto;
+}
+
+.login{
+    width: 50vw;
+    height: auto;
+    margin: 15vh auto;
+    padding: 4vh;
+    color: #B762C1;
+    font-size: larger;
+}
+
+.login a{
+    background-color: #B762C1;
+    color: white;
+    font-size: large;
+}

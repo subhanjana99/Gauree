@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+}
+
+body {
+    background-image: url(../media/antic.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: auto;
+}
+
+.logo1 {
+    color: rebeccapurple;
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+}
+
+.btn {
+    color: rebeccapurple;
+}
+
+.login {
+    margin-left: 50%;
+    width: 50vw;
+    height: auto;
+    margin: 16vh auto;
+    padding: 6vh;
+    background-color: azure;
+    color: rebeccapurple;
+    margin-top: 150px;
+}
+
+.login a {
+    background-color: rebeccapurple;
+    color: white;
+    font-size: large;
+}
